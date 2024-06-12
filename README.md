@@ -1,6 +1,3 @@
----
-layout: default
----
 
 ## [NBA Projects](https://github.com/calvint13/NBA_Project)
 
