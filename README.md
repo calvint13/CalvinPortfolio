@@ -1,4 +1,3 @@
-## Data Analytics Projects
 
 
 ## [NBA Projects](https://github.com/calvint13/NBA_Project)
