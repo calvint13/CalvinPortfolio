@@ -1,4 +1,5 @@
+theme: jekyll-theme-cayman
 title: [Calvin Thai]
 description: [A portfolio showcasing Data Analytics projects that I have completed]
 show_downloads: false
-theme: jekyll-theme-cayman
+
