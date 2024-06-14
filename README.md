@@ -6,6 +6,8 @@
 
 Utilized the NBA Stats API to access player statistics for different seasons, including points per game, rebounds, assists, steals, blocks, turnovers, and shooting percentages.
 
+![](Images/NBA_Data_sample.JPG) 
+
 ### Analysis and Prediction of LeBron James' Regular Season Performance
 
 Conducted an in-depth analysis of LeBron James' regular season statistics from 2010 to 2023, including games played, minutes, points, assists, rebounds, steals, blocks, turnovers, field goal percentage, three-point percentage, and free throw percentage. Implemented machine learning techniques to handle missing data for the years 2018-2019 and 2020-2023. Utilized the Facebook Prophet model to predict missing values in points and other statistics, visualizing trends and predictions using Matplotlib for clear presentation.
