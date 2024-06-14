@@ -29,7 +29,7 @@ This analysis of the Medical Cost Personal Datasets showcases my skills in data 
 </p>
 
 <p align="center">
-  <img src = "Images/Charges_by_Age.JPGG">
+  <img src = "Images/Charges_by_Age.JPG">
 </p>
 
 
