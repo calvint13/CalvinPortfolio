@@ -1,9 +1,3 @@
----
-layout: default
-title: "Calvin Thai"
----
-
-
 # Calvin's Projects
 
 ## [NBA Projects](https://github.com/calvint13/NBA_Project)
