@@ -24,13 +24,13 @@ Conducted an in-depth analysis of LeBron James' regular season statistics from 2
 
 This analysis of the Medical Cost Personal Datasets showcases my skills in data exploration and analysis. Through thorough examination and statistical testing, I uncovered insights into insurance pricing dynamics, identifying influential factors such as age, BMI, and smoking habits. Leveraging libraries like Pandas, NumPy, and Scipy, alongside Linear Regression models, I ensured accurate interpretation and visualization of the data, fostering fairness and equity in insurance pricing strategies.
 
-<div style="display:flex; justify-content:center; align-items:center;">
+<p align="center">
   ![](Images/Insurance_corr.JPG) 
-<div>
+</p>
 
-<div style="display:flex; justify-content:center; align-items:center;">
+<p align="center">
   ![](Images/Charges_by_Age.JPG)
-</div>
+</p>
 
 
 # [School Projects](https://github.com/calvint13/School_Projects)
