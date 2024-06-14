@@ -29,3 +29,19 @@ This analysis of the Medical Cost Personal Datasets showcases my skills in data 
 ## [School Projects](https://github.com/calvint13/School_Projects)
 
 These school projects showcase my skills in data analysis, machine learning, and neural networks. I classified vegetable images using custom and transfer learning models, predicted tech workers' compensation with regression techniques, and detected fraud in transaction data with neural networks. I handled imbalanced datasets, performed feature engineering, and optimized models through hyperparameter tuning, while maintaining clear and organized code.
+
+
+## Power BI Projects
+
+### Interactive Resumne
+
+Created a dynamic, visually engaging resume from scratch with Power BI, integrating data from various sources to showcase professional experience and achievements. Designed intuitive dashboards with custom visuals and interactive elements to enhance user engagement and effectively communicate expertise.
+
+![](Images/Resume_Dashboard.JPG)
+
+### Covid Dashboard
+
+Built a detailed COVID-19 dashboard by integrating data from multiple Excel sheets using Power Query, allowing for seamless real-time analysis and visualization. Designed interactive features and visuals to effectively track and present key metrics, trends, and insights
+
+![](Images/Covid_Dashboard.JPG)
+
