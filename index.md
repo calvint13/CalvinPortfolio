@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "Calvin"
+title: "Calvin Thai"
 ---
 
 # Calvin's Projects
