@@ -46,7 +46,7 @@ These school projects showcase my skills in data analysis, machine learning, and
 
 # Power BI Projects
 
-## Interactive Resumne
+## Interactive Resume
 
 Created a dynamic, visually engaging resume from scratch with Power BI, integrating data from various sources to showcase professional experience and achievements. Designed intuitive dashboards with custom visuals and interactive elements to enhance user engagement and effectively communicate expertise.
 
