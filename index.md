@@ -7,17 +7,16 @@ title: "Calvin Thai"
 
 ## NBA Webscraping
 
-### Libraries Used:
-Pandas, numpy, time, requests
-
-
 Utilized the NBA Stats API to access player statistics for different seasons, including points per game, rebounds, assists, steals, blocks, turnovers, and shooting percentages.
+
+### Python Libraries Used:
+Pandas, numpy, time, requests
 
 ![](Images/NBA_Data_sample.JPG) 
 
 ## Analysis and Prediction of LeBron James' Regular Season Performance
 
-### Libraries Used: 
+### Python Libraries Used:
 
 Pandas, numpy, matplotlib, seaborn, sktime, fbprophet
 
@@ -47,7 +46,7 @@ Minutes Played: Predicted (36.5) vs. Actual (36.9) - A minor difference of 0.4 m
 
 # [Insurance Analysis](https://github.com/calvint13/Insurance_Project)
 
-### Libraries Used:
+### Python Libraries Used:
 
 Pandas, Numpy, matplotlib, seaborn, scipy.stats, sklearn
 
