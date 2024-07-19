@@ -38,7 +38,7 @@ Games Played: Predicted (75) vs. Actual (82) - Model underestimated games played
 
 Minutes Played: Predicted (36.5) vs. Actual (36.9) - A minor difference of 0.4 minutes.
 
-Lebrons performance over the years have been very incredible showing very little dips in performance after he turned 34, the only difference found was the drop in number of games played after the age of 34.
+Lebrons performance over the years have been very consistent showing very little dips in performance after he turned 34, the only difference found was the drop in number of games played after the age of 34.
 
 
 ![](Images/LeBron_Stats.JPG) 
