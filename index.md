@@ -22,7 +22,7 @@ Pandas, numpy, matplotlib, seaborn, sktime, fbprophet
 
 ### Findings:
 
-LeBron James' regular season stats show fewer games (75 to low 70s) and minutes (high 30s to mid 30s), with assists up (under 7 to over 7) and scoring down (27+ to low 20s). His field goals (high 50s) and free throws (over 73%) remain efficient, while rebounds (over 8 to low 7s), steals, and blocks (over 1.5 to under 1) declined with age.
+LeBron James' regular season stats show fewer games (75 to low 70s) and minutes (high 30s to mid 30s), with assists up (under 7 to over 7) and scoring down (27+ to mid 20s). His field goals (high 50s) and free throws (over 73%) remain efficient, while rebounds (over 8 to low 7s), steals, and blocks (over 1.5 to under 1) declined with age.
 
 The model's predictions for LeBron's 2018 stats were remarkably close in key areas:
 
@@ -37,6 +37,8 @@ Games played and minutes per game showed a slight discrepancy:
 Games Played: Predicted (75) vs. Actual (82) - Model underestimated games played by 7 games.
 
 Minutes Played: Predicted (36.5) vs. Actual (36.9) - A minor difference of 0.4 minutes.
+
+Lebrons performance over the years have been very incredible showing very little dips in performance after he turned 34, the only difference found was the drop in number of games played after the age of 34.
 
 
 ![](Images/LeBron_Stats.JPG) 
