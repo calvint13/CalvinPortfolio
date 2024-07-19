@@ -51,7 +51,7 @@ Minutes Played: Predicted (36.5) vs. Actual (36.9) - A minor difference of 0.4 m
 
 Pandas, Numpy, matplotlib, seaborn, scipy.stats, sklearn
 
-###Findings:
+### Findings:
 
 Our analysis reveals that individuals aged 40 to 60 generate the highest insurance charges. Key factors influencing insurance costs include Age, BMI, number of children, and smoking habits. When these factors converge in the 40-60 age range, they significantly impact pricing. This understanding helps providers refine their pricing models for more accurate and equitable risk assessment.
 
